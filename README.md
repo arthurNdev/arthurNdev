@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg" alt="waka"> • 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=arthurNdev&color=blue" alt="arthurNdev"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/arthurNdev?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/arthurNdev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
@@ -37,10 +36,6 @@
  <a id="linkedin" href="https://www.linkedin.com/in/arthur-nina-767380280">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a id="coderank" href="https://profile.codersrank.io/user/arthurNdev">
-   ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=)
-</a>
-
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 
