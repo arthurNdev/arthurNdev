@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/arthurNdev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Arthur Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Arthur+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Arthur Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 
@@ -58,9 +58,6 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Java
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -85,13 +82,7 @@
 
 </table>
 
-  <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=italo-mauricio&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+ 
  
   
 </div> <br>
-
-
-## :snake: Activities :
-
-![Snake animation](https://github.com/italomauricio1/arthurNdev/blob/output/github-contribution-grid-snake.svg)
